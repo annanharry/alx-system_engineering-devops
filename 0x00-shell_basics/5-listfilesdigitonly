@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la -n | sort
+ls -la -n | sort -k9,9
